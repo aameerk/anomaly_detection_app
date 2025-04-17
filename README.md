@@ -1,6 +1,6 @@
-# Data Migration Tool
+# Anomaly Detection Tool
 
-A comprehensive data migration tool with React and Streamlit frontends, powered by a Flask backend. The application provides data validation, anomaly detection, and interactive visualizations.
+A comprehensive Anomaly Detection tool with Streamlit frontends, powered by a Flask backend. The application provides data validation, anomaly detection, and interactive visualizations.
 
 ## Features
 
