@@ -19,3 +19,4 @@ mlflow
 bcrypt
 pandasai
 google-generativeai
+openpyxl
