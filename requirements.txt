@@ -1,0 +1,21 @@
+flask
+flask-cors
+pandas --only-binary :all:
+numpy
+scikit-learn
+streamlit
+python-dotenv
+pytest
+pygwalker
+plotly
+black
+flake8
+pytest-cov
+mlflow
+setuptools
+wheel 
+streamlit-authenticator 
+mlflow 
+bcrypt
+pandasai
+google-generativeai
