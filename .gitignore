@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#node modules
+venv/
+
+# Node.js dependencies
+node_modules/
+
+
 # C extensions
 *.so
 
